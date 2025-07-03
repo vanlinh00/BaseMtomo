@@ -1,4 +1,4 @@
-package com.example.oauth2.controller;
+package com.example.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
